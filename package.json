@@ -1,0 +1,22 @@
+{
+  "name": "pure-node",
+  "version": "1.0.0",
+  "description": "Node.js application without frameworks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/carlosazaustre/pure-node.git"
+  },
+  "keywords": [
+    "node.js"
+  ],
+  "author": "Carlos Azaustre <cazaustre@gmail.com> (https://carlosazaustre.es)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/carlosazaustre/pure-node/issues"
+  },
+  "homepage": "https://github.com/carlosazaustre/pure-node#readme"
+}
